@@ -6,3 +6,4 @@
 # tailwindcss 3.4.17
 # vite vite@6.3.5
 # react react@19.1.0
+# python-jose 
